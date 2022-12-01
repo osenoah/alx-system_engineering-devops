@@ -1,2 +1,2 @@
 #!/bin/bash
-chwod
+mkdir -m 751 my_dir
