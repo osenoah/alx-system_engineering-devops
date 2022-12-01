@@ -1,2 +1,2 @@
 #!/bin/bash
-rmx------
+chmod 700 hello
