@@ -1,6 +1,6 @@
 # Shell, Basics
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about basics commands, navigation, files and directories in **Shell**.
+Project done during **Software Engineering studies** at **ALX**. It aims to learn about basics commands, navigation, files and directories in **Shell**.
 
 ## Technologies
 * Scripts written in `Bash`
