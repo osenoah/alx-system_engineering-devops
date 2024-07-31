@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# shellcheck disable=SC2009
-ps aux --forest | grep bash
