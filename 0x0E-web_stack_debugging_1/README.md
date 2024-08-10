@@ -1,5 +1,5 @@
 # 0x0E-web_stack_debugging_1
-Project was done in **ALX** on the **Full Stack Software Engineering**.
+Project was done in **ALX** on the **Full Stack Software Engineering** course.
 
 ## Files
 | **File** | **Description** |
